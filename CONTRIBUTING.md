@@ -1,5 +1,6 @@
 # Устройство проекта и управление проектом
-![telegram-cloud-photo-size-2-5343853174051691404-y](https://github.com/user-attachments/assets/14e12b10-a042-4d79-97fa-5ac65af62c99)
+![product cycle.pdf](https://github.com/user-attachments/files/16687891/product.cycle.pdf)
+
 
 Процессы, необходимые для жизнеспособности продукта:
 1. разработка среды для разработки продукта
